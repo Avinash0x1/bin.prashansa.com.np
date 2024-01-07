@@ -9,11 +9,11 @@ export function getSiteConfig(env: Env, domain: string): SiteConfig | undefined 
                 // Description For Footer on main Page
                 '/': "Statically Compiled Binaries : https://github.com/Azathothas/Toolpacks",
                 // aarch64 | arm64 Linux
-                '/aarch64_arm64_Linux': "(aarch64 | arm64) Linux Binaries",
+                '/aarch64_arm64_Linux': "(aarch64 | arm64) Linux Binaries (WIP)",
                 '/aarch64_arm64_Linux/BLAKE3SUM.txt': "B3SUM For ALL (aarch64 | arm64) Linux Binaries",
                 '/aarch64_arm64_Linux/SHA256SUM.txt': "SHA256SUM For ALL (aarch64 | arm64) Linux Binaries",
                 // arm64-v8a Android
-                '/arm64_v8a_Android': "(aarch64 | arm64-v8a) Android Binaries",
+                '/arm64_v8a_Android': "(aarch64 | arm64-v8a) Android Binaries (WIP)",
                 '/arm64_v8a_Android/BLAKE3SUM.txt': "B3SUM For ALL (aarch64 | arm64-v8a) Android Binaries",
                 '/arm64_v8a_Android/SHA256SUM.txt': "SHA256SUM For ALL (aarch64 | arm64-v8a) Android Binaries",
                 // x86_64 Linux
@@ -21,7 +21,7 @@ export function getSiteConfig(env: Env, domain: string): SiteConfig | undefined 
                 '/x86_64_Linux/BLAKE3SUM.txt': "B3SUM For ALL (x86_64 | amd_x86-64) Linux Binaries",
                 '/x86_64_Linux/SHA256SUM.txt': "SHA256SUM For ALL (x86_64 | amd_x86-64) Linux Binaries",
                 // x64 Windows
-                '/x64_Windows': "(x64 | 64 Bit) Windows Binaries",
+                '/x64_Windows': "(x64 | 64 Bit) Windows Binaries (WIP)",
                 '/x64_Windows/BLAKE3SUM.txt': "B3SUM For ALL (x64 | 64 Bit) Windows Binaries",
                 '/x64_Windows/SHA256SUM.txt': "SHA256SUM For ALL (x64 | 64 Bit) Windows Binaries",
             },
